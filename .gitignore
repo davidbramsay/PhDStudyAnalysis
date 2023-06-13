@@ -1,0 +1,9 @@
+_pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+Data/
+.DS_Store
+*.mp4
+*.csv
+/Original\ Parsing\ Scripts/HR\ Test/zep_wearable_hr_data/
